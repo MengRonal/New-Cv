@@ -74,7 +74,13 @@ include './include/header.php';
                 </div>
                 <div class="Personal">
                     <h1><span><i class="bi bi-briefcase-fill"></i></span>Personal</h1>
-
+                    <div>
+                        <h3>Sex <span>:Male</span></h3>
+                        <h3>Status <span>:Single</span></h3>
+                        <h3>Nationality <span>:Cambodian</span></h3>
+                        <h3>Date of Birth<span>:13/07/2006</span></h3>
+                        <h3>Height<span>:172cm</span></h3>
+                    </div>
                 </div>
             </div>
         </div>
