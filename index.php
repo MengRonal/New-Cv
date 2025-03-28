@@ -72,6 +72,10 @@ include './include/header.php';
 
                     </div>
                 </div>
+                <div class="Personal">
+                    <h1><span><i class="bi bi-briefcase-fill"></i></span>Personal</h1>
+
+                </div>
             </div>
         </div>
     </div>
