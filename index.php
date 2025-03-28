@@ -73,14 +73,22 @@ include './include/header.php';
                     </div>
                 </div>
                 <div class="Personal">
-                    <h1><span><i class="bi bi-briefcase-fill"></i></span>Personal</h1>
-                    <div>
-                        <h3>Sex <span>:Male</span></h3>
-                        <h3>Status <span>:Single</span></h3>
-                        <h3>Nationality <span>:Cambodian</span></h3>
-                        <h3>Date of Birth<span>:13/07/2006</span></h3>
-                        <h3>Height<span>:172cm</span></h3>
+                    <h1></span>Personal</h1>
+                    <div style="line-height: 40px;">
+                        <h3>Sex <span style="margin-left:94px ;">:Male</span></h3>
+                        <h3>Status <span style="margin-left:65px ;">:Single</span></h3>
+                        <h3>Nationality <span style="margin-left:20px ;">:Cambodian</span></h3>
+                        <h3>Date of Birth<span style="margin-left:13px ;">:13/07/2006</span></h3>
+                        <h3>Height<span style="margin-left:67px ;">:172cm</span></h3>
                     </div>
+                </div>
+                <div class="hobbies">
+                    <h1> hobbies</h1>
+                    <ul style="margin-left: 20px; line-height: 30px;">
+                        <li>Writing</li>
+                        <li>Photography</li>
+                        <li>Sport</li>
+                    </ul>
                 </div>
             </div>
         </div>
